@@ -482,7 +482,7 @@ The high-resolution vector system architecture is permanently stored in the repo
 - **Creator & Lead Engineer:** **Ambadipudi Rupavani**
 - **Degree:** Bachelor of Technology in Computer Science & Engineering (B.Tech CSE)
 - **Institution:** *Malla Reddy College of Engineering and Technology (MRCET)*, Hyderabad, Telangana, India
-- **Email:** [sithaambadipudi5@gmail.com](mailto:sithaambadipudi5@gmail.com)
+- **Email:** [rupaambadipudi@gmail.com]
 - **Phone:** +91 9701691282
 - **Production Application:** [https://rupa-s-query-791008235723.asia-southeast1.run.app/](https://rupa-s-query-791008235723.asia-southeast1.run.app/)
 
@@ -494,7 +494,7 @@ Special thanks to the open-source communities behind **sql.js**, **React**, **La
 
 This project is maintained as a proprietary educational and portfolio system (`"private": true` in `package.json`). All intellectual property, architectural designs, curriculum materials, and custom source code are authored by **Ambadipudi Rupavani**. 
 
-For academic inquiries, collaborations, or enterprise demonstrations, please reach out via [sithaambadipudi5@gmail.com](mailto:rupaamabadipudi@gmail.com).
+For academic inquiries, collaborations, or enterprise demonstrations, please reach out via [rupaambadipudi@gmail.com].
 
 ---
 
