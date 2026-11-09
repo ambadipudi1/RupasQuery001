@@ -494,7 +494,7 @@ Special thanks to the open-source communities behind **sql.js**, **React**, **La
 
 This project is maintained as a proprietary educational and portfolio system (`"private": true` in `package.json`). All intellectual property, architectural designs, curriculum materials, and custom source code are authored by **Ambadipudi Rupavani**. 
 
-For academic inquiries, collaborations, or enterprise demonstrations, please reach out via [sithaambadipudi5@gmail.com](mailto:sithaambadipudi5@gmail.com).
+For academic inquiries, collaborations, or enterprise demonstrations, please reach out via [sithaambadipudi5@gmail.com](mailto:rupaamabadipudi@gmail.com).
 
 ---
 
